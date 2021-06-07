@@ -5,4 +5,7 @@ A website that takes two urls and creates one that has a 50% chance to redirect 
 - i think this works
 - this is a very old project so i dont excpect it to work
 - its basically reddit 50/50 
+- but in a shitty python website
 
+### Run
+Run the script: ```python main.py```
